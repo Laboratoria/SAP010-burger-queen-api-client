@@ -493,7 +493,7 @@ entre as seguintes opções como você vai trabalhar com o backend.
 [json-server](https://www.npmjs.com/package/json-server) e
 [json-server-auth](https://www.npmjs.com/package/json-server-auth)
 ou você pode fazer um fork e 
-clone [este repositório de uma mock API.](https://github.com/Laboratoria/burger-queen-api-mock)
+clone [este repositório de uma mock API.](https://github.com/NaraSakamoto/burger-queen-api-mock/)
 2. Consumindo uma API implantada. Você pode usar uma API que suas companheiras
 vão desenvolver ou você pode usar
 [esta API que desenvolvemos.](https://app.swaggerhub.com/apis-docs/ssinuco/BurgerQueenAPI/2.0.0)
